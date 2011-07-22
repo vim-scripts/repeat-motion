@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3665
+
+I change the script from http://www.vim.org/scripts/script.php?script_id=2174 to support repeat motions.
+
+the following move motions are supported: 
+k,j, h,l, w,b, W,B, e,E, ge,gE.
+
